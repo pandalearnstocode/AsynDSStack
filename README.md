@@ -18,6 +18,27 @@
 ### Grafana: Dashboard to visualize app performance and health
 #### Dashboard to show different app performance metrics.
 
+## Endpoints:
+
+### Fast API
+#### Fast API ROOT
+127.0.0.1:8001
+### Fast API Swagger UI
+127.0.0.1:8001/docs
+### Tailon
+127.0.0.1:8081
+### Locust
+127.0.0.1:8089
+### Prometheus
+127.0.0.1:9090
+### Grafana
+127.0.0.1:3000
+### Plumber
+#### Plumber ROOT
+127.0.0.1:8000
+### Plumber Swagger UI
+http://127.0.0.1:8000/__swagger__/
+
 
 ## TODO:
 * https://www.machinecurve.com/index.php/2020/03/19/tutorial-how-to-deploy-your-convnet-classifier-with-keras-and-fastapi/
