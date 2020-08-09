@@ -22,20 +22,20 @@
 
 ### Fast API
 #### Fast API ROOT
-127.0.0.1:8001
+http://127.0.0.1:8001/
 ### Fast API Swagger UI
-127.0.0.1:8001/docs
+http://127.0.0.1:8001/docs
 ### Tailon
-127.0.0.1:8081
+http://127.0.0.1:8081/
 ### Locust
-127.0.0.1:8089
+http://127.0.0.1:8089/
 ### Prometheus
-127.0.0.1:9090
+http://127.0.0.1:9090/
 ### Grafana
-127.0.0.1:3000
+http://127.0.0.1:3000/
 ### Plumber
 #### Plumber ROOT
-127.0.0.1:8000
+http://127.0.0.1:8000/
 ### Plumber Swagger UI
 http://127.0.0.1:8000/__swagger__/
 
