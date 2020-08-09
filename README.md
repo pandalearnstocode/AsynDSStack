@@ -17,3 +17,10 @@
 #### Metric collection for Grafana dashboard
 ### Grafana: Dashboard to visualize app performance and health
 #### Dashboard to show different app performance metrics.
+
+
+## TODO:
+* https://www.machinecurve.com/index.php/2020/03/19/tutorial-how-to-deploy-your-convnet-classifier-with-keras-and-fastapi/
+* https://blog.jcharistech.com/2019/12/29/serving-machine-learning-models-as-api-with-fastapi/
+* https://cloudnative.ly/building-a-rest-api-in-r-with-tdd-docker-and-ci-cd-part-2-3-2a3f951ee59f
+* https://daroczig.github.io/logger/articles/migration.html#logging-1
