@@ -1,6 +1,6 @@
 # Data Science Stack with Async Python and R RESTful API
 
-## Services avaiable in the compose file
+## Services available in the compose file
 
 ### FASTAPI: Out of the box Async API for Python
 #### Prometheus support
